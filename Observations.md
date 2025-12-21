@@ -45,6 +45,11 @@ This did not happen in diseased corn leaves because of the disease patches prese
 ![blurry_corn_641fd2fc-a98e-44c7-bac6-5e626aad8747___R S_HL 8140 copy](https://github.com/user-attachments/assets/bff317e5-9f46-4325-827d-56bb2c2d12f9)
 ![blurry_corn_37fa5c5c-0c0b-4f9e-b3fa-f9fac95639a7___R S_HL 8191 copy](https://github.com/user-attachments/assets/e07d85b7-999d-458b-9ab9-9e1012693077)
 
+### Resolution
+The images in the dataset donot store dpi (dots per inch) in their metadata. I was unable to find the resolution.
+
+###
+
 
 
 

@@ -121,6 +121,10 @@ Tomato with Early blight and Tomato with Target spot come second.
 
 <img width="192" height="194" alt="Tomato Target spot" src="https://github.com/user-attachments/assets/039b3def-6503-49b4-8253-816ffd5d5f42" />
 
+Orange with Haunglongbing and Corn with Northern Leaf Blight look least similair
+<img width="193" height="192" alt="Orange Haunglongbing" src="https://github.com/user-attachments/assets/327bf8e8-ae02-41e0-8d58-9904d12adfd6" />
+
+<img width="192" height="190" alt="Corn Northern Leaf Blight" src="https://github.com/user-attachments/assets/5681ba3d-e789-45d7-846a-3a227491915b" />
 
 
 

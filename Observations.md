@@ -128,6 +128,116 @@ Orange with Haunglongbing and Corn with Northern Leaf Blight look least similair
 <img width="192" height="190" alt="Corn Northern Leaf Blight" src="https://github.com/user-attachments/assets/5681ba3d-e789-45d7-846a-3a227491915b" />
 
 
+## Visualization
+
+
+<img width="640" height="480" alt="Apple___Apple_scab" src="https://github.com/user-attachments/assets/cf43400b-4e4b-438b-8343-ec767cb6b927" />
+
+<img width="640" height="480" alt="Apple___Black_rot" src="https://github.com/user-attachments/assets/b625ae09-7992-4e33-8c86-db7c5fdd55a9" />
+
+<img width="640" height="480" alt="Apple___Cedar_apple_rust" src="https://github.com/user-attachments/assets/beb40da9-2ff5-4dc9-b1f1-c9df16c7bcc8" />
+
+<img width="640" height="480" alt="Apple___healthy" src="https://github.com/user-attachments/assets/4ea05778-badc-48a1-8547-09d1846b9c03" />
+
+<img width="640" height="480" alt="Blueberry___healthy" src="https://github.com/user-attachments/assets/abb027df-3ad2-49f5-b3da-f20a9de94d0b" />
+
+<img width="640" height="480" alt="Cherry_(including_sour)___healthy" src="https://github.com/user-attachments/assets/8d0ba4fb-0716-45aa-8f7b-91270270be60" />
+
+<img width="640" height="480" alt="Cherry_(including_sour)___Powdery_mildew" src="https://github.com/user-attachments/assets/ecceb6ea-ebac-4d1d-9c1f-e7abf669f40a" />
+
+<img width="640" height="480" alt="Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot" src="https://github.com/user-attachments/assets/bb68b8fd-949b-4eda-add0-07039f6d2393" />
+
+<img width="640" height="480" alt="Corn_(maize)___Common_rust_" src="https://github.com/user-attachments/assets/85b33038-3b68-4726-88da-a65dbff4e929" />
+
+<img width="640" height="480" alt="Corn_(maize)___healthy" src="https://github.com/user-attachments/assets/7681a13a-06a1-4f6a-bf0b-3650029949f8" />
+
+<img width="640" height="480" alt="Corn_(maize)___Northern_Leaf_Blight" src="https://github.com/user-attachments/assets/569bab8d-799c-4aac-9a8a-c353a57f8a39" />
+
+<img width="640" height="480" alt="Grape___Black_rot" src="https://github.com/user-attachments/assets/e1da50c0-494d-42b1-9432-585a2c5eb662" />
+
+<img width="640" height="480" alt="Grape___Esca_(Black_Measles)" src="https://github.com/user-attachments/assets/bc0125f6-5d89-447e-a269-6cf894f7ff2f" />
+
+<img width="640" height="480" alt="Grape___healthy" src="https://github.com/user-attachments/assets/d000a027-978a-4621-a9ba-ac84c8f94ce5" />
+
+<img width="640" height="480" alt="Grape___Leaf_blight_(Isariopsis_Leaf_Spot)" src="https://github.com/user-attachments/assets/782f8dcf-6f1d-46dd-834f-7c04f1a831b1" />
+
+
+<img width="640" height="480" alt="Orange___Haunglongbing_(Citrus_greening)" src="https://github.com/user-attachments/assets/7bf048b2-6bb0-4538-bd1f-b1d768ec34d3" />
+
+<img width="640" height="480" alt="Peach___Bacterial_spot" src="https://github.com/user-attachments/assets/50b6f7f1-ce37-4eb6-a493-a17237a27e1e" />
+
+<img width="640" height="480" alt="Peach___healthy" src="https://github.com/user-attachments/assets/98a39903-ba39-4f74-a6cd-e107ae0cf5da" />
+
+<img width="640" height="480" alt="Pepper,_bell___Bacterial_spot" src="https://github.com/user-attachments/assets/c1e7edb9-3bc7-433f-baaa-f4cd65481237" />
+
+<img width="640" height="480" alt="Pepper,_bell___healthy" src="https://github.com/user-attachments/assets/4c1a1fbf-c1b5-4dd0-9227-c759cec9fd3f" />
+
+<img width="640" height="480" alt="Potato___Early_blight" src="https://github.com/user-attachments/assets/3e4fd9ff-e208-4d35-a9e5-b48c32446f0e" />
+
+<img width="640" height="480" alt="Potato___healthy" src="https://github.com/user-attachments/assets/22643593-ea77-4635-bdc0-921bcb3742cc" />
+
+<img width="640" height="480" alt="Potato___Late_blight" src="https://github.com/user-attachments/assets/916ede6b-827e-4588-be6d-d83d96fb16f9" />
+
+<img width="640" height="480" alt="Raspberry___healthy" src="https://github.com/user-attachments/assets/cd9f0d3d-fad4-4b3d-8677-ac82d6a323c1" />
+
+<img width="640" height="480" alt="Soybean___healthy" src="https://github.com/user-attachments/assets/928d59ac-a44b-4c77-a857-49b504b955c0" />
+
+<img width="640" height="480" alt="Squash___Powdery_mildew" src="https://github.com/user-attachments/assets/ccbf6325-159e-4b92-b898-a6eb27d6b425" />
+
+<img width="640" height="480" alt="Strawberry___healthy" src="https://github.com/user-attachments/assets/0f481041-39b5-469e-bd99-8d13dff95208" />
+
+<img width="640" height="480" alt="Strawberry___Leaf_scorch" src="https://github.com/user-attachments/assets/3d9b6ea8-ed3a-4102-b30e-368b40e19db4" />
+
+<img width="640" height="480" alt="Tomato___Bacterial_spot" src="https://github.com/user-attachments/assets/284467fa-67bc-43d1-86cf-83f59bd4b79d" />
+
+<img width="640" height="480" alt="Tomato___Early_blight" src="https://github.com/user-attachments/assets/1ce91b07-c676-48e7-9b56-65f698ef95ac" />
+
+<img width="640" height="480" alt="Tomato___healthy" src="https://github.com/user-attachments/assets/4c4d7af9-0ae1-4948-9bab-5320166dae7e" />
+
+<img width="640" height="480" alt="Tomato___Late_blight" src="https://github.com/user-attachments/assets/507812f6-22e9-41a3-ada3-31fb919b9ac3" />
+
+<img width="640" height="480" alt="Tomato___Leaf_Mold" src="https://github.com/user-attachments/assets/954c20aa-a2ff-4685-9fb0-ae90d073d627" />
+
+<img width="640" height="480" alt="Tomato___Septoria_leaf_spot" src="https://github.com/user-attachments/assets/4e2f5885-b2a6-4313-8701-7b68032bdac2" />
+
+<img width="640" height="480" alt="Tomato___Spider_mites Two-spotted_spider_mite" src="https://github.com/user-attachments/assets/51a0c66f-8eeb-43da-9b4a-61a1edbd4d15" />
+
+<img width="640" height="480" alt="Tomato___Target_Spot" src="https://github.com/user-attachments/assets/854314c6-061d-43a0-9c79-40df7bb7a102" />
+
+<img width="640" height="480" alt="Tomato___Tomato_mosaic_virus" src="https://github.com/user-attachments/assets/62f42294-9b7b-4f74-b1b8-44e750518b0e" />
+
+<img width="640" height="480" alt="Tomato___Tomato_Yellow_Leaf_Curl_Virus" src="https://github.com/user-attachments/assets/7ae3e602-67f3-48ef-b7a1-68bf1e3d7df0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

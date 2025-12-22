@@ -52,8 +52,10 @@ The images in the dataset donot store dpi (dots per inch) in their metadata. I w
 Across the classes,
 
 <img width="1102" height="362" alt="image" src="https://github.com/user-attachments/assets/89bbe6c8-469e-4ba9-aed4-62aa35da6dc8" />
+<img width="1088" height="358" alt="image" src="https://github.com/user-attachments/assets/bef1acd0-f41f-4644-836e-c0132351a9a2" />
 
-Corn with common rust has a lowest value. This is because of the blacked out background present in all the images of the dataset. 
+
+Corn with common rust has the lowest brightness and the highest contrast. This is because of the blacked out background present in all the images of the dataset.
 
 <img width="190" height="191" alt="image" src="https://github.com/user-attachments/assets/3234b724-0f23-4b45-b152-5176962130a5" />
 
@@ -62,13 +64,39 @@ Conversely, healthy corn has the highest value. I think this is caused by increa
 
 <img width="191" height="193" alt="image" src="https://github.com/user-attachments/assets/9daf12a0-1b71-4b8c-a17f-5a275877e4d3" />
 
+Squash with powdery mildew has a low contrast value and moderately high brigtness. The low contrast could you be caused by the huge number of homogeneous white dots.
 
+<img width="191" height="190" alt="image" src="https://github.com/user-attachments/assets/850cb0a8-ca0c-4e39-92b0-4ce87121576a" />
 
+Tomato with Target Spot has points clustered around a brightness value. I think this is because of uniform lighting, background, leaf size, color and orientation.
 
+<img width="804" height="539" alt="image" src="https://github.com/user-attachments/assets/abb6032c-9003-4d03-8fd0-491aceed4d91" />
 
+<img width="427" height="342" alt="image" src="https://github.com/user-attachments/assets/2d05119b-d82f-4a9f-ada2-31dc515c46fd" />
 
+In contrast, potato with late blight has more distribution in its brightness values. It has varying background and the leaves are in different orientations and stages of disease.
 
+<img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/75c50ccb-92f9-483a-bf33-172a5b78b548" />
 
+<img width="429" height="342" alt="image" src="https://github.com/user-attachments/assets/a75be20a-15d8-47e3-af94-3d73e9ccd47a" />
+
+Healthy blueberry leaves reflect light, so the brightness values were all skewed to the higher side.
+
+<img width="798" height="528" alt="image" src="https://github.com/user-attachments/assets/469fdf8c-8ae0-4009-9c40-715f70aa5dca" />
+
+<img width="421" height="340" alt="image" src="https://github.com/user-attachments/assets/7f1326aa-3dec-4d23-a596-3d70dd536cbd" />
+
+Tomato leaves absorb light, and along with dark patches caused by early blight, the brightness values are to the lower sides.
+
+<img width="805" height="540" alt="image" src="https://github.com/user-attachments/assets/d70e616b-135a-4219-ab0f-82b430a94e6f" />
+
+<img width="422" height="343" alt="image" src="https://github.com/user-attachments/assets/7ac8e461-c422-4f7f-bfbc-7e0bac548d18" />
+
+The healthy tomato class was really interesting. Either the leaves are very smooth or have lots of ridges and bumps. There is no in between. This causes a quantum jump in the contrast values.
+
+<img width="801" height="556" alt="image" src="https://github.com/user-attachments/assets/b32098d9-4925-483f-b16a-24ccf4339165" />
+
+<img width="419" height="340" alt="image" src="https://github.com/user-attachments/assets/db5461fb-2b2c-4f0a-b8d0-405f0eccea04" />
 
 
 

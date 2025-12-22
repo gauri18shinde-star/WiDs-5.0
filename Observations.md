@@ -27,6 +27,12 @@ All images have the same size: (256, 256)
 Initially, the presence of only one dot seemed really confusing!
 I had to run another program to verify the consistent image sizes.
 
+
+### Resolution
+The images in the dataset donot store dpi (dots per inch) in their metadata. I was unable to find the resolution.
+
+
+## Image quality
 ### Blurry images
 I checked for blurry images by converting them into grayscale, then checking brightness gradient by the Laplacian function.
 I ran this code several times while varying the threshold value.
@@ -45,8 +51,6 @@ This did not happen in diseased corn leaves because of the disease patches prese
 ![blurry_corn_641fd2fc-a98e-44c7-bac6-5e626aad8747___R S_HL 8140 copy](https://github.com/user-attachments/assets/bff317e5-9f46-4325-827d-56bb2c2d12f9)
 ![blurry_corn_37fa5c5c-0c0b-4f9e-b3fa-f9fac95639a7___R S_HL 8191 copy](https://github.com/user-attachments/assets/e07d85b7-999d-458b-9ab9-9e1012693077)
 
-### Resolution
-The images in the dataset donot store dpi (dots per inch) in their metadata. I was unable to find the resolution.
 
 ### Brightness and Contrast
 Across the classes,
@@ -99,8 +103,23 @@ The healthy tomato class was really interesting. Either the leaves are very smoo
 <img width="419" height="340" alt="image" src="https://github.com/user-attachments/assets/db5461fb-2b2c-4f0a-b8d0-405f0eccea04" />
 
 
+## Visual similairity
+I plotted a heat map to measure similairity using the cosine similairity function.
+
+<img width="1400" height="1200" alt="similairity" src="https://github.com/user-attachments/assets/d96bde3e-4b5f-4fb8-95b5-ea280c9a3e42" />
+
+Grape with Black measles and Grape with Black rot look the most similair.
+
+<img width="193" height="194" alt="Black measles grape" src="https://github.com/user-attachments/assets/14b69cfc-905b-4af0-8c67-b4475ad0edb4" />
+
+<img width="191" height="193" alt="Black rot Grape" src="https://github.com/user-attachments/assets/5cc7af01-05b5-40dd-81f9-bd4fe8c285c6" />
+
+Tomato with Early blight and Tomato with Target spot come second.
+
+<img width="191" height="191" alt="Tomato Early Blight" src="https://github.com/user-attachments/assets/987c2473-1c1a-47f0-acd6-d0ca01b480cf" />
 
 
+<img width="192" height="194" alt="Tomato Target spot" src="https://github.com/user-attachments/assets/039b3def-6503-49b4-8253-816ffd5d5f42" />
 
 
 

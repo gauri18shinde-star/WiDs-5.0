@@ -48,7 +48,20 @@ This did not happen in diseased corn leaves because of the disease patches prese
 ### Resolution
 The images in the dataset donot store dpi (dots per inch) in their metadata. I was unable to find the resolution.
 
-###
+### Brightness and Contrast
+Across the classes,
+
+<img width="1102" height="362" alt="image" src="https://github.com/user-attachments/assets/89bbe6c8-469e-4ba9-aed4-62aa35da6dc8" />
+
+Corn with common rust has a lowest value. This is because of the blacked out background present in all the images of the dataset. 
+
+<img width="190" height="191" alt="image" src="https://github.com/user-attachments/assets/3234b724-0f23-4b45-b152-5176962130a5" />
+
+
+Conversely, healthy corn has the highest value. I think this is caused by increased brightness to higlight the leaf details along with the absence of dull background, shadows and dark disease patches.
+
+<img width="191" height="193" alt="image" src="https://github.com/user-attachments/assets/9daf12a0-1b71-4b8c-a17f-5a275877e4d3" />
+
 
 
 

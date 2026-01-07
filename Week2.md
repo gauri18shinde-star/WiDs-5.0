@@ -3,9 +3,10 @@
 ## Attempts:
 Tried to implement Support Vector Machine.
 Tried to implement Random Forest.
+Failure due to large size of database.
 
 ## Success:
-Ran a Linear SVC model with Standard Scaling and PCA.
+Ran a Linear SVC model with Standard Scaling and PCA. 
 Linear SVC accuracy: 68.70%
 
 Confusion Matrix:
